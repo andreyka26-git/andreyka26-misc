@@ -1,0 +1,2 @@
+This is sample / POC of the phishing / malicious site that was hiding the requests from Network tab via WebWorker.
+The POC here is only from learning purposes and demonstrates simple version of reverse engineered malicious site
